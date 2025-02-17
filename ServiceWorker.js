@@ -1,16 +1,9 @@
-const cacheName = "CyberNova-Flappy bird-0.1";
+const cacheName = "CyberNova-Flappy bird-0.3";
 const contentToCache = [
-<<<<<<< HEAD
-    "Build/Build 1.1 - Ajout Pause.loader.js",
-    "Build/Build 1.1 - Ajout Pause.framework.js",
-    "Build/Build 1.1 - Ajout Pause.data",
-    "Build/Build 1.1 - Ajout Pause.wasm",
-=======
-    "Build/Build for phone.loader.js",
-    "Build/Build for phone.framework.js",
-    "Build/Build for phone.data",
-    "Build/Build for phone.wasm",
->>>>>>> 72ea54c (Initial commit)
+    "Build/Build 2.loader.js",
+    "Build/Build 2.framework.js",
+    "Build/Build 2.data",
+    "Build/Build 2.wasm",
     "TemplateData/style.css"
 
 ];
